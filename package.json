@@ -1,0 +1,26 @@
+{
+  "name": "agencia-de-viajes4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicsographik/Agencia4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicsographik/Agencia4/issues"
+  },
+  "homepage": "https://github.com/vicsographik/Agencia4#readme"
+}
